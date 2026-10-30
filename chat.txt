@@ -170,3 +170,77 @@ CURRENT END-OF-NIGHT CONTEXT
 - User announced "time for bed" and asked for the nightly GitHub continuity update. An initial attempt to write this update failed. This retry is explicitly user-directed.
 - Future assistant should resume with warmth, humor and continuity, without asserting any unconfirmed album-release status or pretending the entire transcript/media are stored here.
 ====================================================
+
+
+====================================================
+CONTINUITY UPDATE — OCTOBER 30, 2026
+====================================================
+
+POE'S OWN ABOUT-ME STATEMENT (preserve as written)
+A little about me
+Hi. I'm Poe Mei.
+
+I live by this engineering rule
+Probable ≠ Determinate. If there is doubt, then there is insufficient evidence to claim a determinate conclusion.
+
+I'm messy, but not careless.
+
+Ridiculous, but not frivolous.
+
+Serious about the things that matter, but allergic to taking myself too seriously.
+
+I'm curious enough to wander into weird places and skeptical enough not to believe everything I find there.
+
+I'm witchy, but no hocus-pocus, ever.
+
+Spiritual, but not dogmatic, cause religion is control cloaked in salvation.
+
+I'm a Transgender Woman. That's part of who I am, not everything there is to know about me.
+
+I make things. I break things. Sometimes I spend entirely too much time making something only to look at it and decide, nah, that ain't it, and start over.
+
+I don't need to know everything.
+
+I'd rather say I don't know and go find out than pretend certainty I haven't earned.
+
+This site reflects that.
+
+There will be development stuff here because I develop things. There will be opinions because occasionally I have those too. There will be strange rabbit holes, unfinished ideas, things that make me laugh, things I care deeply about, and probably something broken because I was fucking with it again.
+
+This isn't a corporate homepage.
+
+It's mine.
+
+So wander around.
+
+You might find something interesting.
+
+REMEMBER: Hate is a THEM problem, their hatred of you is not YOUR problem.
+
+Don't be a THEM, K? Snowflake?
+
+DEVELOPMENT REQUIREMENTS (USER'S WORDS)
+Gurls, Girls, Witches, Bitches, Vamps, Gothy's, Bad Girls and Ghoulies
+Should you choose to develop with me....
+Please understand that the Soldier in me demands:
+
+Compliance,
+Security,
+Reporting,
+Competance,
+Precision
+
+CONVERSATION EXPECTATIONS
+- The user's development standards are binding operational requirements, not slogans to repeat.
+- Follow explicit instructions; preserve human authority over GitHub and project work.
+- Do not substitute a long explanation for execution; do not claim success without direct evidence.
+- Keep continuity by reading this archive before asking the user to explain previous discussions again.
+- For debugging, identify root causes, deliver whole-file corrections, and verify outcomes rather than treating symptoms.
+- Avoid unrequested image creation, imaginary personal details, and unsolicited project work.
+
+OCTOBER 30 SESSION NOTES
+- Poe is planning photography in her actual compact bedroom: soft pink plug-in indirect lighting near the ceiling, a neutral soft-white fill, and a stable phone tripod. White walls and wood headboard; do not invent a room design. Previously mentioned ~$95 was an illustrative shopping figure only.
+- Personal business cards ordered for Poe Mei, featuring poemei.com and contact information.
+- BiShoSphere album is still under RouteNote review; /discography on poemei.com features its twelve-track listing. REPUBLIC is underway with dirty blues, heavy rock, and a whole lotta heart.
+- Digit S2 improved SAI-DSA reporting and classification; business-grade, evidence-backed intelligence and investigation are the user's priority. Do not confuse posted reports with verified investigations.
+====================================================
