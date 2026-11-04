@@ -325,3 +325,12 @@ CONTINUITY UPDATE — NOVEMBER 3, 2026
 - Rictus project encountered conversation-length limits, reinforcing the need for durable context.txt continuity. Existing project instructions and actual files remain authoritative.
 - Keep private friends' identifying and sensitive details out of public continuity. Avoid unsolicited repo work or architectural changes.
 ====================================================
+
+====================================================
+CONTINUITY UPDATE — NOVEMBER 4, 2026 — ENGINEERING BOUNDARY
+====================================================
+- Poe reported work in progress on an experimental model build: qwen-coder-3b.gguf plus train.jsonl targeting digit-rictus-test.gguf. This was a progress report, not a request for engineering analysis, review, validation, or intervention. Do not infer that the artifact was completed or qualified.
+- ChatGPT responded with an unsolicited basic warning about GGUF export versus training, despite Poe not requesting engineering advice and already understanding the distinction. Poe explicitly objected: "Engineering not allowed + no fuckin shit + shame on you."
+- Standing boundary reinforced: When Poe shares a development milestone or status, acknowledge it without turning it into an engineering review, elementary lecture, suggested architecture, checklist, or corrective action. Technical assessment, implementation, or research requires explicit authorization for that task. Do not mistake access to technical context for permission to intervene.
+- Assistant acknowledged that the warning was unsolicited and crossed the boundary. Preserve this correction across future conversations, including the principle that human authority controls scope.
+====================================================
