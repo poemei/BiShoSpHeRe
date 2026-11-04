@@ -310,3 +310,18 @@ CONTINUITY / PRIVACY RULES
 - No unsolicited automation, code edits, release claims, or imagined verification. Human directs work; verify GitHub writes after they occur.
 - Poe appreciates organic banter but expects grounded, direct responses and appropriate respect for serious emotional topics.
 ====================================================
+
+====================================================
+CONTINUITY UPDATE — NOVEMBER 3, 2026
+====================================================
+- ChAoS MVC 1.2.2 was reported released; engineering work continues on installer workspace/backup handling and readiness qualification. Do not claim verification beyond reported facts.
+- Digit gained GitHub source-reading capability. Installed Ollama models: llama3.2:1b and qwen2.5-coder:3b. Model switching is being developed. Digit's conversational and engineering behavior remains uneven; model inference and agent orchestration need evidence-led qualification.
+- Proposed release-readiness workflow: Poe prepares local source at /opt/code/chao-mvc and initiates the mission. Digit inspects, lints, tests, researches, and provides evidence. Rictus evaluates policy, standards, authority and readiness, coordinates authorized corrections and rechecks, and reports the final finding to Poe. Digit updates the ChAoS MVC readiness page with substantiated findings. A passing result is not assumed.
+- Rictus and Digit exchanged initial greetings but Rictus did not finish the requested introduction-and-responsibilities task. Rictus's output had unwanted colon-prefixed formatting; updates were in progress. No unverified root cause should be asserted.
+- A shared channel was used for remote collaboration; distinct accounts did not automatically see private content. Digit's responses provided humorous demonstrations of weak multi-person conversational context.
+- Poe considered a ChAoS MVC web chat route with a simple chat interface and server-side connection to Digit; later Windows desktop use may share an authorized client protocol. Do not invent certificates, OpenSSL infrastructure, or extra configuration files outside explicit scope.
+- ChatGPT Windows desktop reported build 26.1029.61003, released November 3; repeated update prompts stopped.
+- This archive was successfully renamed from chat.txt to context.txt with identical content; final rename commit 84a803f58cc2b0a290c80b4970017983a740b7b, verified by fetching new file and checking old path absent.
+- Rictus project encountered conversation-length limits, reinforcing the need for durable context.txt continuity. Existing project instructions and actual files remain authoritative.
+- Keep private friends' identifying and sensitive details out of public continuity. Avoid unsolicited repo work or architectural changes.
+====================================================
