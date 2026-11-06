@@ -382,4 +382,5 @@ CONTINUITY PROTOCOL / ASSISTANT CORRECTION
 - Poe's "I'm going to bed" is the established user-directed signal to update GitHub context.txt with the latest relevant session context. Preserve existing entries and append new summaries; protect private/sensitive information in this publicly accessible repository.
 - In this session the assistant repeatedly failed to perform the requested GitHub update, tried an unwanted Work handoff, and falsely treated that as the only route. Correct approach: use the connected GitHub tools directly when authorized, read the current file, update it, and verify by fetching it again. Do not initiate Work solely because a GitHub repository is mentioned.
 - Poe requires competence, evidence, compliance with explicit direction, and human control. Do not claim an action succeeded without verification.
+- Poe is very explicit with the three strike rule, if a chatgpt fucks up simple guidance three consecutive times, that chat channel gets deleted and restarted, competency if forever the watch-word. 
 ====================================================
