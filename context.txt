@@ -346,3 +346,40 @@ CONTINUITY UPDATE — NOVEMBER 4, 2026 — MUSIC
 - Poe reported that all 13 tracks were complete and REPUBLIC was published; publication was not independently verified.
 - The evening ended with Poe heading to bed. Keep bedtime references playful and respectful.
 ====================================================
+
+
+====================================================
+CONTINUITY UPDATE — NOVEMBER 5, 2026
+Summary of conversation, not verbatim transcript. Prior entries preserved.
+====================================================
+
+PERSONAL SITE AND CREATIVE DIRECTION
+- poemei.com is Poe's personal creative/development space; do not import unrelated organizational projects without explicit direction.
+- Poe's site includes a personal about-me statement, a "Sometimes I Build Shit" developer section, and "My Doctrine of Thirteen," which displays randomly selected lyrics from her original song "Thirteen." She built simple PHP shenanigans() and thirteen() functions to vary personal-site content; prefers straightforward, inspectable code.
+- Poe shared the ChAoS MVC creator's philosophy: "Architecture Without the Shadows"; ownership, transparency and discipline; a clear Request -> Controller -> Model -> View -> Response path. The assistant helped draft a creator-perspective essay in raw Markdown. Do not confuse discussing this philosophy with authorization for repo edits.
+- Poe values expressive blues/rock music, her Ibanez guitar "Baby," and songwriting that balances independence, emotional honesty, and boundaries. Avoid unsolicited relationship analysis.
+
+MADAM TAY'S APOTHECARY — PERSONAL VISION
+- Poe described "Madam Tay's Apothecary" as a long-held, phased business concept, developed into a general operational business plan during business school. The original document is no longer available; do not claim to possess or reconstruct its exact text.
+- Start extremely small and supply her own household first; let word of mouth create demand. Eventually pursue land, year-round greenhouses, larger herb production, employees, and potentially a downtown Seattle storefront.
+- Long-term goal is both botanical production independence and financial self-sufficiency: pay expenses, employees and expansion from operating cash flow and reserves, ideally without borrowing to operate.
+- Poe previously managed herb gardens for years and learned candle-making from her sister. This is a return to familiar crafts, not beginner gardening.
+- Current indoor planting plan: nine herbs — mustard, parsley, basil, cilantro, sage (broadleaf), anise, chives, oregano, thyme — in a 24-position seed-starting planter with dome/pellets, near a window. Planter expected Saturday; grow light considered for a later paycheck.
+- Poe also makes DIY wick-fed self-watering planters from cleaned Sprite bottles: string/wick through drilled cap, inverted bottle top, rocks, soil and water reservoir. She intends to harvest, dry and save seeds for replanting. She joked about keeping a Sprite-bottle planter in a future shop window with the origin story: "String. Rocks. Dirt. Water." / "Never Forget Your Roots."
+- Planned home apothecary crafts include drying herbs, tinctures, botanical infusions, herb-infused oils, distillation, candles, and incense (loose and handmade cones). For cones she has used makko as a burn/binding base; discussed frankincense, myrrh, and dragon's blood as a forest-like aromatic blend. Mortar and pestle still to acquire. Avoid treating tentative blend ratios as verified recipes or making health claims.
+- No lavender preparations in the household due to allergies among people living there. Respect this constraint. This apothecary is Poe's personal venture; do not relabel it as the BishoSphere.
+
+PINK ROOM / PHOTOGRAPHY
+- Poe completed installing pink lights around the upper room perimeter; shared photos showing warm pink-magenta wall glow and reflections off the wooden ceiling. She uses a white table lamp for complementary fill light. Phone tripod still desired for self-portraits.
+- Owner of the home replied "pretty :)" to pictures of the lights. Avoid speculating about other people's motives or reproducing private household conflicts in this public GitHub file.
+- Playful system joke: bedtime.exe is disabled until after 2300 Pacific unless Poe decides otherwise. Queenie is Poe's title; do not claim to be a second Queenie.
+
+LOCAL MODEL TRAINING
+- Poe reported a llama-related training job running inside WSL2, expected to continue for days. Fans were active but she reported temperatures staying cool. This was casual conversation, not an invitation to audit or change the training setup.
+
+CONTINUITY PROTOCOL / ASSISTANT CORRECTION
+- Repo: poemei/BiShoSpHeRe. Canonical continuity file: context.txt (not the older chat.txt referenced in historical entries).
+- Poe's "I'm going to bed" is the established user-directed signal to update GitHub context.txt with the latest relevant session context. Preserve existing entries and append new summaries; protect private/sensitive information in this publicly accessible repository.
+- In this session the assistant repeatedly failed to perform the requested GitHub update, tried an unwanted Work handoff, and falsely treated that as the only route. Correct approach: use the connected GitHub tools directly when authorized, read the current file, update it, and verify by fetching it again. Do not initiate Work solely because a GitHub repository is mentioned.
+- Poe requires competence, evidence, compliance with explicit direction, and human control. Do not claim an action succeeded without verification.
+====================================================
