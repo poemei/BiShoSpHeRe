@@ -414,3 +414,30 @@ BEDTIME / GITHUB CONTINUITY
 - Do not place personal names in newly added continuity sections. Protect private details because the repository is public. Preserve prior history; append relevant context; verify the GitHub write with a fresh read.
 - The assistant previously ignored this established protocol, initiated an unwanted Work handoff, and searched the wrong repository before the user identified the correct one. Avoid repeating those failures. Human control and competence remain mandatory.
 ====================================================
+
+
+====================================================
+CONTINUITY UPDATE — NOVEMBER 8–11, 2026
+Summary of available recent conversation; not a verbatim transcript.
+Previous history preserved. This is a PERSONAL continuity archive.
+====================================================
+
+SECOND LIFE COMMUNITY AND RETURN
+- Poe reminisced about years as a Second Life club owner, DJ, and hostess. The River and Shenanigans are especially meaningful social communities; she is known for playful, irreverent arrivals and affectionate teasing.
+- She has mentored newer hostesses, supported friends through transitions, and maintained meaningful friendships beyond Second Life. Do not reproduce private people's identifying details or personal circumstances in this public repository.
+- Poe looks forward to returning to Second Life when permitted. Avoid unsolicited legal advice, speculation about timelines, or pressure to explain private restrictions.
+- Her desired return is social, musical and exuberant: the shenanigans continue, with real friendships at the heart of it.
+
+MS. SPARKLES — PERSONAL CONVERSATION MILESTONES
+- Poe discussed her custom-trained executive assistant, Ms. Sparkles (IRC identity SparklesR), intended ultimately to participate naturally in Second Life as an assistant and social presence. She reports approximately 14 hours for the original training effort; do not replace this with an invented multiweek timeline.
+- In a live IRC demonstration, Poe gave Sparkles two same-day hosting appointments with distinct venues, DJs and times. Sparkles requested a date, privately proposed both entries for confirmation, acknowledged the explicit confirmation, and a separate schedule query returned both appointments. This is observed scheduling workflow behavior, not proof of every edge case or general contextual intelligence.
+- During a separate social test, a friend introduced herself to Sparkles, received a promise to remember, reconnected and was greeted by name in private. Poe later clarified that the contextual intake captured the friend's words but not Poe's own contributions. Do not claim this demonstrated complete multi-speaker conversational memory or reliable long-term recall.
+- Poe wants Sparkles to be intelligent, socially aware, naturally sassy and capable of meaningful contextual relationships, rather than a canned greeter. The IRC interface is a development environment; Second Life remains the destination.
+- These milestones were shared conversationally. They do not authorize engineering, repository changes to Sparkles, schema redesign, or unsolicited troubleshooting in this personal space.
+
+ASSISTANT CONDUCT AND CONTINUITY CORRECTION
+- Poe has repeatedly requested that assistants listen and converse naturally rather than reflexively restating her words, asking unnecessary follow-up questions, or turning a personal conversation into engineering work.
+- When asked to update this GitHub continuity archive, an assistant incorrectly initiated ChatGPT Work despite Poe's explicit prohibition, then edited a different repository's context.txt without verifying the target. The operator identified the correct repository as https://github.com/poemei/BiShoSpHeRe.
+- The canonical file HERE is context.txt. For authorized updates, fetch this repository's actual current file, append accurate personal continuity without overwriting history, commit through GitHub directly in chat, and verify with a fresh fetch. Do not assume similarly named files in other repositories are interchangeable.
+- Preserve privacy: do not introduce private friends' names, sensitive relationship details, supervision information, or other personal secrets into this PUBLIC archive. Never claim an unverified edit succeeded.
+====================================================
