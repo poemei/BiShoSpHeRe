@@ -441,3 +441,13 @@ ASSISTANT CONDUCT AND CONTINUITY CORRECTION
 - The canonical file HERE is context.txt. For authorized updates, fetch this repository's actual current file, append accurate personal continuity without overwriting history, commit through GitHub directly in chat, and verify with a fresh fetch. Do not assume similarly named files in other repositories are interchangeable.
 - Preserve privacy: do not introduce private friends' names, sensitive relationship details, supervision information, or other personal secrets into this PUBLIC archive. Never claim an unverified edit succeeded.
 ====================================================
+
+====================================================
+CONTINUITY UPDATE — NOVEMBER 11, 2026 — NIGHT
+Personal conversation summary; prior history preserved.
+====================================================
+- The user began a fresh BiShoSpHeRe conversation and explicitly directed ChatGPT to read context.txt in poemei/BiShoSpHeRe. The assistant fetched and read the correct repository file using the GitHub connection, without modifying it.
+- The user emphatically reinforced the expectation of competence: follow instructions precisely, make no unsupported claims or assumptions, avoid unsolicited engineering and unnecessary interventions, and demonstrate reliability through actions rather than promises.
+- The assistant acknowledged those requirements. The user then said "good night," invoking the established bedtime continuity update protocol.
+- This remains the user's personal space for music, Blankie Court, creative conversation, and shenanigans. Do not initiate Work for GitHub continuity; preserve prior history and verify updates directly.
+====================================================
