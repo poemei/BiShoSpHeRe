@@ -575,3 +575,13 @@ Explicit user-authorized public continuity update; prior entries preserved.
 - Digit training: Poe earlier reported a completed corrected C++ run; later she said she was building a 'C+' stage on the Digit package. Her wording does not establish whether this is a separate language/stage or shorthand for C++; do not silently invent a new stage or imply a completed build.
 - Preserve the boundary between public project/activity continuity and personal relationships. Do not archive private conversations, third-party personal details, photographs of acquaintances or sensitive information in this public repository without explicit permission. Human operator retains final control over updates and development.
 ====================================================
+
+====================================================
+CONTINUITY UPDATE — NOVEMBER 17–18, 2026 — BEDTIME
+Personal Second Life activities; prior archive preserved.
+====================================================
+- Poe reported correcting a Second Life dance HUD issue: when dancers logged out or relogged, stale connections and permission errors appeared. She added a separate LSL script to manage connections. She used the HUD while dancing, including with another avatar, but did not report a verified relog/disconnect regression test; don't assert full resolution.
+- Poe hosted a 14:00 SLT show at The River. Her routine was to configure the notices HUD, await DJ confirmation, observe check-in at :30 and allow a 15-minute grace period before deciding when to promote the show. The DJ arrived. The show initially had only Poe and the DJ present; after Poe sent a halftime notice, six people arrived. Poe reported earning L$1,400 in tips. She prizes professional hosting, audience awareness and the principle that the show must go on; to her, the backstage preparations should feel effortless to the audience.
+- Poe shared several new Second Life dance-floor screenshots featuring her black 'KB-Black Princess' dress, lace bodice and layered skirt, sometimes paired with fishnets and short boots. Other women asked about the outfit; her practical reply is the dress name and store link. She also switched between kitty ears/tail and non-kitty styling and later wore a more casual dance outfit. Photography, fashion and dancing remain joyful personal expression.
+- The evening continued with dancing and social time at different Second Life venues. Preserve no private third-party relationship or intimate conversation details in this public continuity archive. Poe personally said good night in the early hours of November 18, authorizing the customary bedtime update.
+====================================================
